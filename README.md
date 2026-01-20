@@ -21,4 +21,10 @@ This project performs exploratory data analysis on sales transaction data to ide
 ## Project Link
 - Google Colab Notebook: https://colab.research.google.com/drive/1SfZDxlVZ5EOQel7ywn2udBJ7_vpIRVvx?usp=sharing
 
-  
+## Power BI Dashboard
+
+The dashboard was created using Power BI Desktop to visualize sales trends and customer behavior.
+
+### Dashboard Preview
+![Dashboard Overview](<img width="1421" height="801" alt="dashboard_overview" src="https://github.com/user-attachments/assets/52758de6-0bfb-483e-b3ad-22e03c2be585" />
+)  
