@@ -1,4 +1,4 @@
-# Sales Data Exploratory Analysis
+# End-to-End Sales Intelligence Data Pipeline
 
 ## Tools Used
 - Python (Pandas, NumPy, Matplotlib)
